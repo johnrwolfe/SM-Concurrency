@@ -1,0 +1,34 @@
+-- BP 7.1.6 content: ModelClass syschar: 3 persistence-version: 7.1.6
+
+INSERT INTO O_OBJ
+	VALUES ("83fe4bb1-a616-4fd7-b3a4-bfa65e668b8f",
+	'ActionSequence',
+	14,
+	'ActionSequence',
+	'The run-time-specific sequence of actions executed on 
+behalf a state machine as the result of a single run-time
+transition.',
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO O_ID
+	VALUES (0,
+	"83fe4bb1-a616-4fd7-b3a4-bfa65e668b8f");
+INSERT INTO O_ID
+	VALUES (1,
+	"83fe4bb1-a616-4fd7-b3a4-bfa65e668b8f");
+INSERT INTO O_ID
+	VALUES (2,
+	"83fe4bb1-a616-4fd7-b3a4-bfa65e668b8f");
+INSERT INTO PE_PE
+	VALUES ("83fe4bb1-a616-4fd7-b3a4-bfa65e668b8f",
+	1,
+	"71791548-7591-4ed3-bc89-1d29e88e9b51",
+	"00000000-0000-0000-0000-000000000000",
+	4);
+INSERT INTO EP_PKG_PROXY
+	VALUES ("71791548-7591-4ed3-bc89-1d29e88e9b51",
+	"e9f6b0d1-25e6-4c61-bca2-b371c630dbd0",
+	"e9f6b0d1-25e6-4c61-bca2-b371c630dbd0",
+	'Concurrency',
+	'',
+	0,
+	'../Concurrency.xtuml');
