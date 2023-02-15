@@ -5,7 +5,8 @@ INSERT INTO O_OBJ
 	'Transition',
 	7,
 	'Transition',
-	'',
+	'A runtime decision to transition a state machine from one state
+to another based on the structural specification in the state model.',
 	"00000000-0000-0000-0000-000000000000");
 INSERT INTO O_ID
 	VALUES (0,

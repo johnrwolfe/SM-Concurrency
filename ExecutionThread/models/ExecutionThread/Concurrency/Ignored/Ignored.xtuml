@@ -5,7 +5,8 @@ INSERT INTO O_OBJ
 	'Ignored',
 	5,
 	'Ignored',
-	'',
+	'A runtime decision to ignore an event based on
+the structural specification in the state model.',
 	"00000000-0000-0000-0000-000000000000");
 INSERT INTO O_ID
 	VALUES (0,
