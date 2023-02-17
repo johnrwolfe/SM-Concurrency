@@ -15,6 +15,24 @@ in the transition and entry activities as well as all operations
 invoked (directly or indirectly) by those activities.  
 ',
 	"00000000-0000-0000-0000-000000000000");
+INSERT INTO O_NBATTR
+	VALUES ("d2cc3889-7762-40db-86c7-e2502684d769",
+	"9b2e6225-130f-46f3-9940-9f501955d051");
+INSERT INTO O_BATTR
+	VALUES ("d2cc3889-7762-40db-86c7-e2502684d769",
+	"9b2e6225-130f-46f3-9940-9f501955d051");
+INSERT INTO O_ATTR
+	VALUES ("d2cc3889-7762-40db-86c7-e2502684d769",
+	"9b2e6225-130f-46f3-9940-9f501955d051",
+	"00000000-0000-0000-0000-000000000000",
+	'current_state',
+	'',
+	'',
+	'current_state',
+	0,
+	"ba5eda7a-def5-0000-0000-000000000006",
+	'',
+	'');
 INSERT INTO O_ID
 	VALUES (0,
 	"9b2e6225-130f-46f3-9940-9f501955d051");
